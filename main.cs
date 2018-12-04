@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace exercise
+namespace 217063527
 {
     class program
     {
@@ -24,7 +24,7 @@ namespace exercise
               calculator.z = q;
 
 
-            switch(p)
+            switch(op)
             {
                 case "+":
 
