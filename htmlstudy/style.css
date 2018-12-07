@@ -1,5 +1,5 @@
 body{
-    
+    font-family:
 }
 header{
     display: block;
@@ -8,6 +8,11 @@ header{
     background:goldenrod;
 
 }
+header h1{
+    color:#FF953F;
+    margin-top:0;
+    float: left;
+    width: 25%;
 h1{
     color: green;
     margin-top: 0px;
